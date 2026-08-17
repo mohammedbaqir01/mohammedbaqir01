@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Mohammed Baqir Ahmed, a Petroleum Engineering graduate with a strong interest in MLOps. Focused on building end-to-end ML projects, solving real-world problems, and optimizing model performance.
 
-### MY TECHNICAL SKILLS:
+### TECHNICAL SKILLS:
 📊 Data & Machine Learning: Python, SQL, Pandas, NumPy, Scikit-learn, XGBoost, Feature Engineering, Model Evaluation 
 
 🛰️ MLOps & Deployment: Docker, MLflow, FastAPI, REST APIs, Git/GitHub, CI/CD, Microsoft Azure 
